@@ -90,7 +90,6 @@ Inline style declarations are a last resort. The purpose of css is to separate t
 
 HTML includes a `style` tag in which style definitions can be collected. Place the tag at the top of the document, typically in the `head`, and define the styles normally:
   
-  ``
   <head>
     <style>
       div {
@@ -98,7 +97,7 @@ HTML includes a `style` tag in which style definitions can be collected. Place t
       }
     </style>
   </head>
-  ``
+
 
 
 **Style Sheets**
@@ -145,24 +144,24 @@ We've already seen how to add a border to divs. The selector filters out other h
 
 The `class` attribute in html is commonly used for css targeting. Recall that you can define an arbitrary class for an html element:
 
-  <div class='red'> ... </div>
+  `<div class='red'> ... </div>`
   
 The css class selector can then be used to target elements of that class. It is a `.` followed by the class name:
 
-  .classname { ... }
+  `.classname { ... }`
   
 We target the red class in our example:
 
-  .red { ... }
+  `.red { ... }`
 
 Many elements can have the same class, and elements of different types can have the same class, for example a red paragraph and a red link:
 
-  <p class='red'> ... </p>
-  <a class='red' href=''> ... </a>
+  `<p class='red'> ... </p>`
+  `<a class='red' href=''> ... </a>`
 
 An element can also have many classes. Separate the classes with a space:
 
-  <div class='big bold falvor'>
+  `<div class='big bold falvor'>`
 
 Which will apply the styles from three different class selectors:
 
@@ -182,7 +181,7 @@ Yes, `chocolate` is a valid css color name.
 
 Recall that the `id` attribute uniquely identifies an element on a page:
 
-  <div id='content'> ... </div>
+  `<div id='content'> ... </div>`
 
 CSS can target an element with a given id by using the pound symbol `#` followed the the id:
 
@@ -198,7 +197,7 @@ Attribute selectors target elements with certain attribute values. Define an att
 
 html
 
-  <input type='text' required='required'>
+  `<input type='text' required='required'>`
   
 css
 
@@ -208,7 +207,7 @@ Or to target an element with the custom `data-type` attribute whose value is `pe
 
 html
 
-  <div data-type='person'> ... </div>
+  `<div data-type='person'> ... </div>`
   
 css
 
@@ -390,6 +389,6 @@ css
   
 html
   
-  <div class='blue' id='green'> I will have green text </div>
+  `<div class='blue' id='green'> I will have green text </div>`
 
 The div has green text because the id selector is more specific than either the blue selector or the div selector, even though it is defined earlier.
