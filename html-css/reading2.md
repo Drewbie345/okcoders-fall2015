@@ -82,7 +82,7 @@ Delcarations must be defined in an html document or referenced from it in order 
 
 Add a `style` attribute directly to the html tag and include the style declarations in quotes:
 
-  <div style='border: 1px solid black;'>...</div>
+  `<div style='border: 1px solid black;'>...</div>`
 
 Inline style declarations are a last resort. The purpose of css is to separate the presentation from the html. When we add css to the html itself, we break that *separation of concerns* and make it difficult to alter the style of the document later.
 
@@ -90,6 +90,7 @@ Inline style declarations are a last resort. The purpose of css is to separate t
 
 HTML includes a `style` tag in which style definitions can be collected. Place the tag at the top of the document, typically in the `head`, and define the styles normally:
   
+  ``
   <head>
     <style>
       div {
@@ -97,6 +98,7 @@ HTML includes a `style` tag in which style definitions can be collected. Place t
       }
     </style>
   </head>
+  ``
 
 
 **Style Sheets**
