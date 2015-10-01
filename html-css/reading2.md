@@ -74,10 +74,6 @@ Comments may be added to a stylesheet by placing them inside a `/* ... */` group
     border: 1px solid black;
   }
 
-
-<!--- Include some examples -->
-
-
 ## Style Sheets
 
 Delcarations must be defined in an html document or referenced from it in order to take effect. There are three ways to include css in an html document:
@@ -116,11 +112,10 @@ More commonly, styles are defined in a separate document with the `.css` extensi
   
 Then link to that document from the html with a `link` tag, again usually placed in the document `head`:
 
-  ...
   <head>
     <link rel='stylesheet' type='text/css' href='/stylesheets/global.css'>
   </head>
-  ...
+
   
 Notice that `link` is a self-contained tag with three attributes that must be defined.
 
@@ -318,8 +313,6 @@ Which would target only the first of the following two links:
   </div>
 
 Practice css by making up a complex chain of selectors and pseudo-selectors with class and id modifiers and then generating the html that those your style applies to.
-
-<!--- Include some examples --->
 
 
 ## CSS is Cascading
