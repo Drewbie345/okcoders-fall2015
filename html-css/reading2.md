@@ -94,15 +94,15 @@ Inline style declarations are a last resort. The purpose of css is to separate t
 
 HTML includes a `style` tag in which style definitions can be collected. Place the tag at the top of the document, typically in the `head`, and define the styles normally:
   
-  ...
+  '''
   <head>
     <style>
       div {
         border: 1px solid black;
       }
-    </styl>
+    </style>
   </head>
-  ...
+  '''
 
 **Style Sheets**
 
