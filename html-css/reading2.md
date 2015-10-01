@@ -75,7 +75,7 @@ Comments may be added to a stylesheet by placing them inside a `/* ... */` group
   }
 
 
-<!--- Include some examples --->
+<!--- Include some examples -->
 
 
 ## Style Sheets
