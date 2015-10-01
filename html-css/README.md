@@ -23,6 +23,10 @@ Not sure how the internet works? Check out this video!
 
 1. [How the Internet Works in 5 Minutes](https://youtu.be/cafVVwi1yEI)
 
+Looking to get started on Git?
+
+1. [Try Git](https://try.github.io/levels/1/challenges/1)
+
 Additionally, there are several articles on using Twitter's CSS Framework, Bootstrap.
 
 1. [Bootstrap Intro](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/reading5.md)
