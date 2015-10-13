@@ -1,6 +1,11 @@
 HTML & CSS
 ==========
 
+CSS Challenges
+-------------
+
+Check [this page](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/cssChallenge.md) out for some CSS activities!
+
 There are four articles by Philip Dow for you to read.
 
 1. [HTML Basics](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/reading1.md)
