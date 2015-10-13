@@ -1,17 +1,14 @@
 HTML & CSS
 ==========
 
-CSS Challenges
--------------
-
-Check [this page](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/cssChallenge.md) out for some CSS activities!
-
 There are four articles by Philip Dow for you to read.
 
 1. [HTML Basics](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/reading1.md)
 2. [CSS Basics](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/reading2.md)
 3. [CSS - The Box Model](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/reading3.md)
 4. [CSS - Positioning](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/reading4.md)
+5. Check [this page on CSS Animations](https://github.com/Drewbie345/okcoders-fall2015/blob/master/html-css/cssChallenge.md)
+
 
 
 There are three mini-activities for you to work on as well.
