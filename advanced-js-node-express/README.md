@@ -12,3 +12,10 @@ Please read the following articles and complete the activites built into the art
 7. [NPM - Node Packaging Manager](https://github.com/Drewbie345/okcoders-fall2015/tree/master/advanced-js-node-express)
 8. [HTTP](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/http.md)
 9. [Express Routing](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/routing.md)
+
+Activities
+----------
+
+1. [Create a simple Express Hello World example]()
+2. [Add a route to your simple Express example]()
+3. [A Tutorial on CRUD](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
