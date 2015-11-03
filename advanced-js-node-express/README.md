@@ -16,6 +16,6 @@ Please read the following articles and complete the activites built into the art
 Activities
 ----------
 
-1. [Create a simple Express Hello World example]()
-2. [Add a route to your simple Express example]()
+1. [Create a simple Express Hello World example](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/express-directions1.md)
+2. [Add a route to your simple Express example](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/express-directions2.md)
 3. [A Tutorial on CRUD](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
