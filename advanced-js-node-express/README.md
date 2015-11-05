@@ -23,12 +23,12 @@ Activities
 More Reading on Node/Express/MongoDB
 ------------------------------------
 
-1. [Express - Rendering HTML]()
-2. [Modeling & Databases]()
-3. [MongoDB Intro]()
-4. [Mongoose & MongoDB]()
+1. [Express - Rendering HTML](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/express-rendering-html.md)
+2. [Modeling & Databases](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/modeling-and-databases.md)
+3. [MongoDB Intro](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/mongodb-intro.md)
+4. [Mongoose & MongoDB](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/mongoose-mongodb.md)
 
 More Activities
 ---------------
 
-1. [Jade Activity]()
+1. [Jade Activity](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/jade-activity1.md)
