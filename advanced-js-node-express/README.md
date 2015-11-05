@@ -19,3 +19,16 @@ Activities
 1. [Create a simple Express Hello World example](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/express-directions1.md)
 2. [Add a route to your simple Express example](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/express-directions2.md)
 3. [A Tutorial on CRUD](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+
+More Reading on Node/Express/MongoDB
+------------------------------------
+
+1. [Express - Rendering HTML]()
+2. [Modeling & Databases]()
+3. [MongoDB Intro]()
+4. [Mongoose & MongoDB]()
+
+More Activities
+---------------
+
+1. [Jade Activity]()
