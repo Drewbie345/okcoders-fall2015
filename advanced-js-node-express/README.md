@@ -32,3 +32,8 @@ More Activities
 ---------------
 
 1. [Jade Activity](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/jade-activity1.md)
+
+Flickr API Project
+------------------
+1. [Flickr Project Directions](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/flickrProject.md)
+2. [Flickr Project Sample](https://github.com/Drewbie345/okcoders-fall2015/tree/master/advanced-js-node-express/flickrProject)
