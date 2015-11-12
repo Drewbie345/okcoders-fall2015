@@ -41,5 +41,5 @@ Flickr API Project
 Additional Articles on Express
 ------------------------------
 
-1. [Creating Data with Express]()
-2. [Updating & Deleting Data with Express]()
+1. [Creating Data with Express](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/creating_data_express.md)
+2. [Updating & Deleting Data with Express](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/updating_deleting_data_express.md)
