@@ -37,3 +37,9 @@ Flickr API Project
 ------------------
 1. [Flickr Project Directions](https://github.com/Drewbie345/okcoders-fall2015/blob/master/advanced-js-node-express/flickrProject.md)
 2. [Flickr Project Sample](https://github.com/Drewbie345/okcoders-fall2015/tree/master/advanced-js-node-express/flickrProject)
+
+Additional Articles on Express
+------------------------------
+
+1. [Creating Data with Express]()
+2. [Updating & Deleting Data with Express]()
