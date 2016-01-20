@@ -88,7 +88,7 @@ var foo = {
 		console.log('called bar');
 		this.baz();
 	},
-	baz: functino() {
+	baz: function() {
 		console.log('called baz');
 	}
 };
